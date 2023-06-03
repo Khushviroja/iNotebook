@@ -1,6 +1,6 @@
 # iNotebook
 
-![iNotebook Logo](https://example.com/logo.png)
+![iNotebook Logo](public/logo192.png)
 
 Welcome to iNotebook! This project aims to provide a user-friendly notebook application to help you stay organized and keep track of your notes and ideas.
 
