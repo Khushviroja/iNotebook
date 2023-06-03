@@ -34,6 +34,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 ## Analyzing the Bundle Size
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+# Snapshots
+
+## Sign-Up Form
+![Screenshot_5](https://github.com/Khushviroja/iNotebook/assets/96327504/0b9eeead-3611-4230-88b9-694103ad0f91)
+
+## Login Form
+![Screenshot_4](https://github.com/Khushviroja/iNotebook/assets/96327504/3f18603b-1dea-4d1e-9a3f-add718453ef8)
+
+## Add Note
+![Screenshot_1](https://github.com/Khushviroja/iNotebook/assets/96327504/bddcdf4b-bb7e-4409-9568-0ae2268b3d84)
+
+## Edit Note
+![Screenshot_2](https://github.com/Khushviroja/iNotebook/assets/96327504/c1074ed8-f4d4-488d-94f7-592a36596e09)
+
+## Data-Base (User Data)
+![Screenshot_6](https://github.com/Khushviroja/iNotebook/assets/96327504/8603db94-d6ed-4744-abfb-2bf1f1480db1)
+
+## Data-Base (Notes-Data)
+![Screenshot_7](https://github.com/Khushviroja/iNotebook/assets/96327504/c6db3519-24ac-4a2f-b97b-cdf8563ab0d9)
+
 ## Making a Progressive Web App
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
