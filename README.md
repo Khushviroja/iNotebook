@@ -48,10 +48,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ## Edit Note
 ![Screenshot_2](https://github.com/Khushviroja/iNotebook/assets/96327504/c1074ed8-f4d4-488d-94f7-592a36596e09)
 
-## Data-Base (User Data)
+## Users Data
 ![Screenshot_6](https://github.com/Khushviroja/iNotebook/assets/96327504/8603db94-d6ed-4744-abfb-2bf1f1480db1)
 
-## Data-Base (Notes-Data)
+## Notes-Data
 ![Screenshot_7](https://github.com/Khushviroja/iNotebook/assets/96327504/c6db3519-24ac-4a2f-b97b-cdf8563ab0d9)
 
 ## Making a Progressive Web App
