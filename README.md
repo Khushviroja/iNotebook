@@ -1,6 +1,7 @@
 # iNotebook
 
-![iNotebook Logo](public/logo192.png)
+![iNotebook logo](https://github.com/Khushviroja/iNotebook/assets/96327504/7501e9d8-6dad-4196-98b3-6edd52e7d951)
+
 
 Welcome to iNotebook! This project aims to provide a user-friendly notebook application to help you stay organized and keep track of your notes and ideas.
 
